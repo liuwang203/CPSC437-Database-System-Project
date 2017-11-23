@@ -1,0 +1,184 @@
+Cheese Pizza
+
+This is an Vegetarian Entree
+Contains Dairy
+Contains Wheat
+Contains Gluten
+
+Serving Size: 1 Slice
+Calories: 249
+Protein:   15.1 grams
+Fat:    9.5 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:    5.6 grams
+Cholesterol: 26 milligrams
+Carbohydrates:   25.5 grams
+Sugar:    0.9 grams
+Dietary Fiber:    7.5 grams
+Vitamin C:    1.9 milligrams
+B-1: 0.02 milligrams
+Niacin: 0.30 milligrams
+B-2: 0.02 milligrams
+Vitamin A:  275.5 IU
+Iron:    0.9 milligrams
+Calcium:  347.3 milligrams
+Sodium: 586 milligrams
+
+Chefs Choice Vegetarian Pizza
+
+This is an Vegetarian Entree
+Contains Dairy
+Contains Wheat
+Contains Gluten
+
+Serving Size: 1 Slice
+Calories: 224
+Protein:   14.5 grams
+Fat:    7.0 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:    3.8 grams
+Cholesterol: 19 milligrams
+Carbohydrates:   27.0 grams
+Sugar:    0.9 grams
+Dietary Fiber:    7.5 grams
+Vitamin C:    2.5 milligrams
+B-1: 0.03 milligrams
+Niacin: 0.35 milligrams
+B-2: 0.03 milligrams
+Vitamin A:   89.7 IU
+Iron:    0.8 milligrams
+Calcium:  198.5 milligrams
+Sodium: 383 milligrams
+
+New England Clam Chowder
+
+Contains Shellfish
+Contains Dairy
+Contains Fish
+Contains Soy Products
+
+Serving Size: 8 FluidOunce
+Calories: 186
+Protein:    9.1 grams
+Fat:    8.3 grams
+Poly Unsaturated Fat:    0.2 grams
+Saturated Fat:    4.9 grams
+Cholesterol: 15 milligrams
+Carbohydrates:   18.7 grams
+Sugar:    1.0 grams
+Dietary Fiber:    0.9 grams
+Vitamin C:   10.5 milligrams
+B-1: 0.10 milligrams
+Niacin: 1.17 milligrams
+B-2: 0.10 milligrams
+Vitamin A:  214.9 IU
+Iron:    7.1 milligrams
+Calcium:   32.7 milligrams
+Sodium: 616 milligrams
+
+Chefs Choice Pizza
+
+This is an Vegetarian Entree
+Contains Dairy
+Contains Wheat
+Contains Gluten
+
+Serving Size: 1 Slice
+Calories: 224
+Protein:   14.5 grams
+Fat:    7.0 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:    3.8 grams
+Cholesterol: 19 milligrams
+Carbohydrates:   27.0 grams
+Sugar:    0.9 grams
+Dietary Fiber:    7.5 grams
+Vitamin C:    2.5 milligrams
+B-1: 0.03 milligrams
+Niacin: 0.35 milligrams
+B-2: 0.03 milligrams
+Vitamin A:   89.7 IU
+Iron:    0.8 milligrams
+Calcium:  198.5 milligrams
+Sodium: 383 milligrams
+
+Roasted Broccoli Florets
+
+This is a Vegan Entree
+This is an Vegetarian Entree
+
+Serving Size: 4 Ounce
+Calories: 72
+Protein:    3.1 grams
+Fat:    4.4 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:    0.6 grams
+Cholesterol: 0 milligrams
+Carbohydrates:    7.2 grams
+Sugar:    1.9 grams
+Dietary Fiber:    2.8 grams
+Vitamin C:   97.1 milligrams
+B-1: 0.19 milligrams
+Niacin: 0.70 milligrams
+B-2: 0.19 milligrams
+Vitamin A:  678.3 IU
+Iron:    0.8 milligrams
+Calcium:   51.2 milligrams
+Sodium: 37 milligrams
+
+Chefs Choice Flatbread
+
+Contains Dairy
+Contains Eggs
+Contains Soy Products
+Contains Wheat
+Contains Gluten
+
+Serving Size: 1 Each
+Calories: 549
+Protein:   23.2 grams
+Fat:   25.0 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:   11.3 grams
+Cholesterol: 65 milligrams
+Carbohydrates:   60.3 grams
+Sugar:    4.6 grams
+Dietary Fiber:    3.0 grams
+Vitamin C:    0.0 milligrams
+B-1: 0.00 milligrams
+Niacin: 0.00 milligrams
+B-2: 0.00 milligrams
+Vitamin A:  422.6 IU
+Iron:    3.7 milligrams
+Calcium:  425.9 milligrams
+Sodium: 1074 milligrams
+
+Cheese Flatbread
+
+This is an Vegetarian Entree
+Contains Dairy
+Contains Eggs
+Contains Soy Products
+Contains Wheat
+Contains Gluten
+
+Serving Size: 1 Each
+Calories: 548
+Protein:   23.2 grams
+Fat:   24.9 grams
+Poly Unsaturated Fat:    0.0 grams
+Saturated Fat:   11.3 grams
+Cholesterol: 65 milligrams
+Carbohydrates:   60.1 grams
+Sugar:    4.6 grams
+Dietary Fiber:    3.0 grams
+Vitamin C:    0.0 milligrams
+B-1: 0.00 milligrams
+Niacin: 0.00 milligrams
+B-2: 0.00 milligrams
+Vitamin A:  421.4 IU
+Iron:    3.7 milligrams
+Calcium:  424.7 milligrams
+Sodium: 1071 milligrams
+
+COMPLETED
