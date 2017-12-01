@@ -26,4 +26,14 @@ To-Do List:
    (1) Create a HTML web page
    (2) Create functions for client queries
  
+Project Report must include:
 
+•A project report must be divided up into the following sections:
+   ◦Introduction: What the main idea of the project is, what it does, etc
+   ◦Motivation: why you chose the project, why its useful, etc.
+   ◦Challenges: technical challenges. etc
+   ◦Solution: What NF the table design meets, the resulting tables, etc
+   ◦What each member of the team worked on.
+•Source code of the project with a clear README file.
+•ER Diagram of your project.
+•A detailed explanation of each of your projects applications, such as what it is capable of doing.
