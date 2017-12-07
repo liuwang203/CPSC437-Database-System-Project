@@ -1,0 +1,17 @@
+Calories:2000
+Protein:50
+Fat:65
+Poly Unsaturated Fat:12
+Saturated Fat:20
+Cholesterol:300
+Carbohydrates:300
+Sugar:300
+Dietary Fiber:25
+Vitamin C:60
+B-1:1.5
+Niacin:20
+B-2:1.7
+Vitamin A:5000
+Iron:18
+Calcium:1000
+Sodium:2400

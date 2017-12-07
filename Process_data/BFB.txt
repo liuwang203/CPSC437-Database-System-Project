@@ -1,0 +1,102 @@
+Certified Organic, Cage-Free Hard-Boiled Eggs:Calories:62:cal
+Certified Organic, Cage-Free Hard-Boiled Eggs:Protein:5.5:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Fat:4.4:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Poly Unsaturated Fat:0.0:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Saturated Fat:1.4:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Cholesterol:186:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Carbohydrates:0.3:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Sugar:0.3:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Dietary Fiber:0.0:grams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Vitamin C:0.0:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:B-1:0.00:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Niacin:0.00:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:B-2:0.00:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Vitamin A:214.3:IU
+Certified Organic, Cage-Free Hard-Boiled Eggs:Iron:0.8:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Calcium:23.3:milligrams
+Certified Organic, Cage-Free Hard-Boiled Eggs:Sodium:62:milligrams
+Vegan Waffles:Calories:278:cal
+Vegan Waffles:Protein:7.5:grams
+Vegan Waffles:Fat:3.4:grams
+Vegan Waffles:Poly Unsaturated Fat:0.2:grams
+Vegan Waffles:Saturated Fat:0.8:grams
+Vegan Waffles:Cholesterol:0:milligrams
+Vegan Waffles:Carbohydrates:53.2:grams
+Vegan Waffles:Sugar:10.8:grams
+Vegan Waffles:Dietary Fiber:1.8:grams
+Vegan Waffles:Vitamin C:0.0:milligrams
+Vegan Waffles:B-1:0.02:milligrams
+Vegan Waffles:Niacin:3.22:milligrams
+Vegan Waffles:B-2:0.02:milligrams
+Vegan Waffles:Vitamin A:151.9:IU
+Vegan Waffles:Iron:2.9:milligrams
+Vegan Waffles:Calcium:258.1:milligrams
+Vegan Waffles:Sodium:393:milligrams
+Waffles:Calories:276:cal
+Waffles:Protein:5.1:grams
+Waffles:Fat:3.1:grams
+Waffles:Poly Unsaturated Fat:0.0:grams
+Waffles:Saturated Fat:0.0:grams
+Waffles:Cholesterol:0:milligrams
+Waffles:Carbohydrates:54.3:grams
+Waffles:Sugar:5.1:grams
+Waffles:Dietary Fiber:1.0:grams
+Waffles:Vitamin C:0.0:milligrams
+Waffles:B-1:0.00:milligrams
+Waffles:Niacin:0.00:milligrams
+Waffles:B-2:0.00:milligrams
+Waffles:Vitamin A:0.0:IU
+Waffles:Iron:3.7:milligrams
+Waffles:Calcium:310.1:milligrams
+Waffles:Sodium:853:milligrams
+Blueberry Muffins:Calories:274:cal
+Blueberry Muffins:Protein:4.9:grams
+Blueberry Muffins:Fat:8.6:grams
+Blueberry Muffins:Poly Unsaturated Fat:0.1:grams
+Blueberry Muffins:Saturated Fat:5.0:grams
+Blueberry Muffins:Cholesterol:60:milligrams
+Blueberry Muffins:Carbohydrates:44.3:grams
+Blueberry Muffins:Sugar:21.4:grams
+Blueberry Muffins:Dietary Fiber:1.0:grams
+Blueberry Muffins:Vitamin C:1.4:milligrams
+Blueberry Muffins:B-1:0.01:milligrams
+Blueberry Muffins:Niacin:1.76:milligrams
+Blueberry Muffins:B-2:0.01:milligrams
+Blueberry Muffins:Vitamin A:303.4:IU
+Blueberry Muffins:Iron:1.7:milligrams
+Blueberry Muffins:Calcium:118.7:milligrams
+Blueberry Muffins:Sodium:316:milligrams
+Whole-Grain Irish Oatmeal:Calories:104:cal
+Whole-Grain Irish Oatmeal:Protein:4.3:grams
+Whole-Grain Irish Oatmeal:Fat:1.9:grams
+Whole-Grain Irish Oatmeal:Poly Unsaturated Fat:0.7:grams
+Whole-Grain Irish Oatmeal:Saturated Fat:0.3:grams
+Whole-Grain Irish Oatmeal:Cholesterol:0:milligrams
+Whole-Grain Irish Oatmeal:Carbohydrates:17.8:grams
+Whole-Grain Irish Oatmeal:Sugar:0.0:grams
+Whole-Grain Irish Oatmeal:Dietary Fiber:3.1:grams
+Whole-Grain Irish Oatmeal:Vitamin C:0.0:milligrams
+Whole-Grain Irish Oatmeal:B-1:0.03:milligrams
+Whole-Grain Irish Oatmeal:Niacin:0.26:milligrams
+Whole-Grain Irish Oatmeal:B-2:0.03:milligrams
+Whole-Grain Irish Oatmeal:Vitamin A:0.0:IU
+Whole-Grain Irish Oatmeal:Iron:1.1:milligrams
+Whole-Grain Irish Oatmeal:Calcium:17.5:milligrams
+Whole-Grain Irish Oatmeal:Sodium:5:milligrams
+Congee Toppings Bar:Calories:102:cal
+Congee Toppings Bar:Protein:7.7:grams
+Congee Toppings Bar:Fat:6.3:grams
+Congee Toppings Bar:Poly Unsaturated Fat:0.0:grams
+Congee Toppings Bar:Saturated Fat:1.8:grams
+Congee Toppings Bar:Cholesterol:22:milligrams
+Congee Toppings Bar:Carbohydrates:2.7:grams
+Congee Toppings Bar:Sugar:0.8:grams
+Congee Toppings Bar:Dietary Fiber:0.5:grams
+Congee Toppings Bar:Vitamin C:1.1:milligrams
+Congee Toppings Bar:B-1:0.01:milligrams
+Congee Toppings Bar:Niacin:0.10:milligrams
+Congee Toppings Bar:B-2:0.01:milligrams
+Congee Toppings Bar:Vitamin A:150.3:IU
+Congee Toppings Bar:Iron:0.2:milligrams
+Congee Toppings Bar:Calcium:8.6:milligrams
+Congee Toppings Bar:Sodium:147:milligrams

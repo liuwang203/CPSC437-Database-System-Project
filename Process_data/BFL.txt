@@ -1,0 +1,391 @@
+Grilled Glazed Pork Cutlet:Calories:213:cal
+Grilled Glazed Pork Cutlet:Protein:17.9:grams
+Grilled Glazed Pork Cutlet:Fat:11.8:grams
+Grilled Glazed Pork Cutlet:Poly Unsaturated Fat:0.0:grams
+Grilled Glazed Pork Cutlet:Saturated Fat:4.1:grams
+Grilled Glazed Pork Cutlet:Cholesterol:50:milligrams
+Grilled Glazed Pork Cutlet:Carbohydrates:7.5:grams
+Grilled Glazed Pork Cutlet:Sugar:7.4:grams
+Grilled Glazed Pork Cutlet:Dietary Fiber:0.1:grams
+Grilled Glazed Pork Cutlet:Vitamin C:0.8:milligrams
+Grilled Glazed Pork Cutlet:B-1:0.00:milligrams
+Grilled Glazed Pork Cutlet:Niacin:0.02:milligrams
+Grilled Glazed Pork Cutlet:B-2:0.00:milligrams
+Grilled Glazed Pork Cutlet:Vitamin A:34.4:IU
+Grilled Glazed Pork Cutlet:Iron:0.6:milligrams
+Grilled Glazed Pork Cutlet:Calcium:6.3:milligrams
+Grilled Glazed Pork Cutlet:Sodium:719:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Calories:150:cal
+Vegetable Potstickers with Ginger-Soy Sauce:Protein:5.0:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Fat:5.3:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Poly Unsaturated Fat:0.0:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Saturated Fat:1.3:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Cholesterol:0:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Carbohydrates:21.6:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Sugar:2.5:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Dietary Fiber:0.8:grams
+Vegetable Potstickers with Ginger-Soy Sauce:Vitamin C:9.9:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:B-1:0.00:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Niacin:0.01:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:B-2:0.00:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Vitamin A:402.8:IU
+Vegetable Potstickers with Ginger-Soy Sauce:Iron:0.9:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Calcium:33.1:milligrams
+Vegetable Potstickers with Ginger-Soy Sauce:Sodium:371:milligrams
+Bok Choy with Ginger and Sesame:Calories:45:cal
+Bok Choy with Ginger and Sesame:Protein:2.2:grams
+Bok Choy with Ginger and Sesame:Fat:3.1:grams
+Bok Choy with Ginger and Sesame:Poly Unsaturated Fat:0.1:grams
+Bok Choy with Ginger and Sesame:Saturated Fat:0.3:grams
+Bok Choy with Ginger and Sesame:Cholesterol:0:milligrams
+Bok Choy with Ginger and Sesame:Carbohydrates:3.6:grams
+Bok Choy with Ginger and Sesame:Sugar:1.7:grams
+Bok Choy with Ginger and Sesame:Dietary Fiber:1.5:grams
+Bok Choy with Ginger and Sesame:Vitamin C:64.7:milligrams
+Bok Choy with Ginger and Sesame:B-1:0.28:milligrams
+Bok Choy with Ginger and Sesame:Niacin:0.73:milligrams
+Bok Choy with Ginger and Sesame:B-2:0.28:milligrams
+Bok Choy with Ginger and Sesame:Vitamin A:6412.6:IU
+Bok Choy with Ginger and Sesame:Iron:1.2:milligrams
+Bok Choy with Ginger and Sesame:Calcium:151.2:milligrams
+Bok Choy with Ginger and Sesame:Sodium:106:milligrams
+Lemon Herb Chicken:Calories:403:cal
+Lemon Herb Chicken:Protein:30.6:grams
+Lemon Herb Chicken:Fat:30.4:grams
+Lemon Herb Chicken:Poly Unsaturated Fat:0.0:grams
+Lemon Herb Chicken:Saturated Fat:7.3:grams
+Lemon Herb Chicken:Cholesterol:146:milligrams
+Lemon Herb Chicken:Carbohydrates:1.2:grams
+Lemon Herb Chicken:Sugar:0.3:grams
+Lemon Herb Chicken:Dietary Fiber:0.1:grams
+Lemon Herb Chicken:Vitamin C:9.8:milligrams
+Lemon Herb Chicken:B-1:0.00:milligrams
+Lemon Herb Chicken:Niacin:0.00:milligrams
+Lemon Herb Chicken:B-2:0.00:milligrams
+Lemon Herb Chicken:Vitamin A:1094.8:IU
+Lemon Herb Chicken:Iron:2.4:milligrams
+Lemon Herb Chicken:Calcium:30.1:milligrams
+Lemon Herb Chicken:Sodium:118:milligrams
+Southwest Black Bean Soup:Calories:78:cal
+Southwest Black Bean Soup:Protein:5.1:grams
+Southwest Black Bean Soup:Fat:2.6:grams
+Southwest Black Bean Soup:Poly Unsaturated Fat:0.0:grams
+Southwest Black Bean Soup:Saturated Fat:0.2:grams
+Southwest Black Bean Soup:Cholesterol:0:milligrams
+Southwest Black Bean Soup:Carbohydrates:15.2:grams
+Southwest Black Bean Soup:Sugar:3.2:grams
+Southwest Black Bean Soup:Dietary Fiber:7.7:grams
+Southwest Black Bean Soup:Vitamin C:4.7:milligrams
+Southwest Black Bean Soup:B-1:0.04:milligrams
+Southwest Black Bean Soup:Niacin:0.05:milligrams
+Southwest Black Bean Soup:B-2:0.04:milligrams
+Southwest Black Bean Soup:Vitamin A:1038.3:IU
+Southwest Black Bean Soup:Iron:1.3:milligrams
+Southwest Black Bean Soup:Calcium:83.4:milligrams
+Southwest Black Bean Soup:Sodium:283:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Calories:68:cal
+Albuquerque Garden Salad with Avocado Dressing:Protein:1.8:grams
+Albuquerque Garden Salad with Avocado Dressing:Fat:3.5:grams
+Albuquerque Garden Salad with Avocado Dressing:Poly Unsaturated Fat:0.1:grams
+Albuquerque Garden Salad with Avocado Dressing:Saturated Fat:0.5:grams
+Albuquerque Garden Salad with Avocado Dressing:Cholesterol:0:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Carbohydrates:9.2:grams
+Albuquerque Garden Salad with Avocado Dressing:Sugar:2.0:grams
+Albuquerque Garden Salad with Avocado Dressing:Dietary Fiber:1.8:grams
+Albuquerque Garden Salad with Avocado Dressing:Vitamin C:23.4:milligrams
+Albuquerque Garden Salad with Avocado Dressing:B-1:0.10:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Niacin:0.52:milligrams
+Albuquerque Garden Salad with Avocado Dressing:B-2:0.10:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Vitamin A:261.1:IU
+Albuquerque Garden Salad with Avocado Dressing:Iron:0.5:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Calcium:13.5:milligrams
+Albuquerque Garden Salad with Avocado Dressing:Sodium:41:milligrams
+Southwestern Slaw:Calories:45:cal
+Southwestern Slaw:Protein:0.9:grams
+Southwestern Slaw:Fat:2.5:grams
+Southwestern Slaw:Poly Unsaturated Fat:0.6:grams
+Southwestern Slaw:Saturated Fat:0.3:grams
+Southwestern Slaw:Cholesterol:0:milligrams
+Southwestern Slaw:Carbohydrates:5.5:grams
+Southwestern Slaw:Sugar:2.1:grams
+Southwestern Slaw:Dietary Fiber:2.6:grams
+Southwestern Slaw:Vitamin C:25.0:milligrams
+Southwestern Slaw:B-1:0.09:milligrams
+Southwestern Slaw:Niacin:0.26:milligrams
+Southwestern Slaw:B-2:0.09:milligrams
+Southwestern Slaw:Vitamin A:323.1:IU
+Southwestern Slaw:Iron:0.5:milligrams
+Southwestern Slaw:Calcium:25.9:milligrams
+Southwestern Slaw:Sodium:30:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Calories:134:cal
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Protein:5.0:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Fat:6.4:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Poly Unsaturated Fat:1.8:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Saturated Fat:1.0:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Cholesterol:0:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Carbohydrates:15.9:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Sugar:1.6:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Dietary Fiber:2.6:grams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Vitamin C:3.6:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:B-1:0.07:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Niacin:0.32:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:B-2:0.07:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Vitamin A:2404.5:IU
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Iron:2.2:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Calcium:23.5:milligrams
+Quinoa, Sweet Potato, Bean, Corn, and Pepita Salad with Lime-Cilantro Vinaigrette:Sodium:44:milligrams
+Mezze Bar:Calories:158:cal
+Mezze Bar:Protein:10.3:grams
+Mezze Bar:Fat:9.5:grams
+Mezze Bar:Poly Unsaturated Fat:0.0:grams
+Mezze Bar:Saturated Fat:1.3:grams
+Mezze Bar:Cholesterol:21:milligrams
+Mezze Bar:Carbohydrates:8.6:grams
+Mezze Bar:Sugar:3.6:grams
+Mezze Bar:Dietary Fiber:1.3:grams
+Mezze Bar:Vitamin C:4.2:milligrams
+Mezze Bar:B-1:0.04:milligrams
+Mezze Bar:Niacin:0.21:milligrams
+Mezze Bar:B-2:0.04:milligrams
+Mezze Bar:Vitamin A:1180.6:IU
+Mezze Bar:Iron:0.8:milligrams
+Mezze Bar:Calcium:72.0:milligrams
+Mezze Bar:Sodium:320:milligrams
+Sushi Rice:Calories:145:cal
+Sushi Rice:Protein:2.6:grams
+Sushi Rice:Fat:0.4:grams
+Sushi Rice:Poly Unsaturated Fat:0.0:grams
+Sushi Rice:Saturated Fat:0.0:grams
+Sushi Rice:Cholesterol:0:milligrams
+Sushi Rice:Carbohydrates:32.5:grams
+Sushi Rice:Sugar:1.4:grams
+Sushi Rice:Dietary Fiber:0.2:grams
+Sushi Rice:Vitamin C:0.0:milligrams
+Sushi Rice:B-1:0.00:milligrams
+Sushi Rice:Niacin:0.00:milligrams
+Sushi Rice:B-2:0.00:milligrams
+Sushi Rice:Vitamin A:0.0:IU
+Sushi Rice:Iron:0.3:milligrams
+Sushi Rice:Calcium:2.4:milligrams
+Sushi Rice:Sodium:22:milligrams
+Coconut Macaroon Cookies:Calories:162:cal
+Coconut Macaroon Cookies:Protein:2.3:grams
+Coconut Macaroon Cookies:Fat:1.9:grams
+Coconut Macaroon Cookies:Poly Unsaturated Fat:0.0:grams
+Coconut Macaroon Cookies:Saturated Fat:1.6:grams
+Coconut Macaroon Cookies:Cholesterol:0:milligrams
+Coconut Macaroon Cookies:Carbohydrates:34.6:grams
+Coconut Macaroon Cookies:Sugar:28.7:grams
+Coconut Macaroon Cookies:Dietary Fiber:0.4:grams
+Coconut Macaroon Cookies:Vitamin C:0.0:milligrams
+Coconut Macaroon Cookies:B-1:0.01:milligrams
+Coconut Macaroon Cookies:Niacin:0.50:milligrams
+Coconut Macaroon Cookies:B-2:0.01:milligrams
+Coconut Macaroon Cookies:Vitamin A:0.0:IU
+Coconut Macaroon Cookies:Iron:0.6:milligrams
+Coconut Macaroon Cookies:Calcium:2.9:milligrams
+Coconut Macaroon Cookies:Sodium:123:milligrams
+Chunky Monkey Bar:Calories:257:cal
+Chunky Monkey Bar:Protein:3.3:grams
+Chunky Monkey Bar:Fat:13.7:grams
+Chunky Monkey Bar:Poly Unsaturated Fat:1.6:grams
+Chunky Monkey Bar:Saturated Fat:5.9:grams
+Chunky Monkey Bar:Cholesterol:0:milligrams
+Chunky Monkey Bar:Carbohydrates:32.0:grams
+Chunky Monkey Bar:Sugar:16.4:grams
+Chunky Monkey Bar:Dietary Fiber:1.9:grams
+Chunky Monkey Bar:Vitamin C:1.7:milligrams
+Chunky Monkey Bar:B-1:0.03:milligrams
+Chunky Monkey Bar:Niacin:0.94:milligrams
+Chunky Monkey Bar:B-2:0.03:milligrams
+Chunky Monkey Bar:Vitamin A:14.6:IU
+Chunky Monkey Bar:Iron:1.3:milligrams
+Chunky Monkey Bar:Calcium:15.8:milligrams
+Chunky Monkey Bar:Sodium:176:milligrams
+Beef Sub Beyond Meat Burger 4oz:Calories:449:cal
+Beef Sub Beyond Meat Burger 4oz:Protein:24.0:grams
+Beef Sub Beyond Meat Burger 4oz:Fat:26.0:grams
+Beef Sub Beyond Meat Burger 4oz:Poly Unsaturated Fat:0.0:grams
+Beef Sub Beyond Meat Burger 4oz:Saturated Fat:10.5:grams
+Beef Sub Beyond Meat Burger 4oz:Cholesterol:25:milligrams
+Beef Sub Beyond Meat Burger 4oz:Carbohydrates:32.0:grams
+Beef Sub Beyond Meat Burger 4oz:Sugar:2.0:grams
+Beef Sub Beyond Meat Burger 4oz:Dietary Fiber:4.0:grams
+Beef Sub Beyond Meat Burger 4oz:Vitamin C:54.0:milligrams
+Beef Sub Beyond Meat Burger 4oz:B-1:0.00:milligrams
+Beef Sub Beyond Meat Burger 4oz:Niacin:0.00:milligrams
+Beef Sub Beyond Meat Burger 4oz:B-2:0.00:milligrams
+Beef Sub Beyond Meat Burger 4oz:Vitamin A:0.0:IU
+Beef Sub Beyond Meat Burger 4oz:Iron:0.0:milligrams
+Beef Sub Beyond Meat Burger 4oz:Calcium:36.0:milligrams
+Beef Sub Beyond Meat Burger 4oz:Sodium:700:milligrams
+Grass-Fed Hand Shaped Burger:Calories:397:cal
+Grass-Fed Hand Shaped Burger:Protein:20.8:grams
+Grass-Fed Hand Shaped Burger:Fat:21.5:grams
+Grass-Fed Hand Shaped Burger:Poly Unsaturated Fat:0.1:grams
+Grass-Fed Hand Shaped Burger:Saturated Fat:9.1:grams
+Grass-Fed Hand Shaped Burger:Cholesterol:85:milligrams
+Grass-Fed Hand Shaped Burger:Carbohydrates:29.2:grams
+Grass-Fed Hand Shaped Burger:Sugar:3.5:grams
+Grass-Fed Hand Shaped Burger:Dietary Fiber:2.1:grams
+Grass-Fed Hand Shaped Burger:Vitamin C:8.1:milligrams
+Grass-Fed Hand Shaped Burger:B-1:0.09:milligrams
+Grass-Fed Hand Shaped Burger:Niacin:2.17:milligrams
+Grass-Fed Hand Shaped Burger:B-2:0.09:milligrams
+Grass-Fed Hand Shaped Burger:Vitamin A:2219.9:IU
+Grass-Fed Hand Shaped Burger:Iron:2.2:milligrams
+Grass-Fed Hand Shaped Burger:Calcium:44.6:milligrams
+Grass-Fed Hand Shaped Burger:Sodium:311:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Calories:452:cal
+Grass-Fed Hand-Shaped Cheeseburger:Protein:24.4:grams
+Grass-Fed Hand-Shaped Cheeseburger:Fat:26.5:grams
+Grass-Fed Hand-Shaped Cheeseburger:Poly Unsaturated Fat:0.1:grams
+Grass-Fed Hand-Shaped Cheeseburger:Saturated Fat:12.1:grams
+Grass-Fed Hand-Shaped Cheeseburger:Cholesterol:103:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Carbohydrates:29.7:grams
+Grass-Fed Hand-Shaped Cheeseburger:Sugar:3.5:grams
+Grass-Fed Hand-Shaped Cheeseburger:Dietary Fiber:2.1:grams
+Grass-Fed Hand-Shaped Cheeseburger:Vitamin C:8.1:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:B-1:0.09:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Niacin:2.17:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:B-2:0.09:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Vitamin A:2370.1:IU
+Grass-Fed Hand-Shaped Cheeseburger:Iron:2.2:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Calcium:145.9:milligrams
+Grass-Fed Hand-Shaped Cheeseburger:Sodium:412:milligrams
+Chicken Wrap:Calories:651:cal
+Chicken Wrap:Protein:35.9:grams
+Chicken Wrap:Fat:27.0:grams
+Chicken Wrap:Poly Unsaturated Fat:0.1:grams
+Chicken Wrap:Saturated Fat:5.8:grams
+Chicken Wrap:Cholesterol:73:milligrams
+Chicken Wrap:Carbohydrates:64.0:grams
+Chicken Wrap:Sugar:4.0:grams
+Chicken Wrap:Dietary Fiber:7.9:grams
+Chicken Wrap:Vitamin C:31.1:milligrams
+Chicken Wrap:B-1:0.09:milligrams
+Chicken Wrap:Niacin:0.28:milligrams
+Chicken Wrap:B-2:0.09:milligrams
+Chicken Wrap:Vitamin A:4447.2:IU
+Chicken Wrap:Iron:3.9:milligrams
+Chicken Wrap:Calcium:187.9:milligrams
+Chicken Wrap:Sodium:1401:milligrams
+Vegan Sweet Potato and Black Bean Burger:Calories:89:cal
+Vegan Sweet Potato and Black Bean Burger:Protein:5.0:grams
+Vegan Sweet Potato and Black Bean Burger:Fat:1.5:grams
+Vegan Sweet Potato and Black Bean Burger:Poly Unsaturated Fat:0.0:grams
+Vegan Sweet Potato and Black Bean Burger:Saturated Fat:0.0:grams
+Vegan Sweet Potato and Black Bean Burger:Cholesterol:0:milligrams
+Vegan Sweet Potato and Black Bean Burger:Carbohydrates:15.0:grams
+Vegan Sweet Potato and Black Bean Burger:Sugar:2.0:grams
+Vegan Sweet Potato and Black Bean Burger:Dietary Fiber:3.0:grams
+Vegan Sweet Potato and Black Bean Burger:Vitamin C:6.0:milligrams
+Vegan Sweet Potato and Black Bean Burger:B-1:0.00:milligrams
+Vegan Sweet Potato and Black Bean Burger:Niacin:0.00:milligrams
+Vegan Sweet Potato and Black Bean Burger:B-2:0.00:milligrams
+Vegan Sweet Potato and Black Bean Burger:Vitamin A:1747.5:IU
+Vegan Sweet Potato and Black Bean Burger:Iron:1.8:milligrams
+Vegan Sweet Potato and Black Bean Burger:Calcium:40.0:milligrams
+Vegan Sweet Potato and Black Bean Burger:Sodium:220:milligrams
+Salami and Honey Pizza:Calories:744:cal
+Salami and Honey Pizza:Protein:28.6:grams
+Salami and Honey Pizza:Fat:45.8:grams
+Salami and Honey Pizza:Poly Unsaturated Fat:0.0:grams
+Salami and Honey Pizza:Saturated Fat:16.3:grams
+Salami and Honey Pizza:Cholesterol:80:milligrams
+Salami and Honey Pizza:Carbohydrates:54.6:grams
+Salami and Honey Pizza:Sugar:8.3:grams
+Salami and Honey Pizza:Dietary Fiber:15.9:grams
+Salami and Honey Pizza:Vitamin C:14.2:milligrams
+Salami and Honey Pizza:B-1:0.06:milligrams
+Salami and Honey Pizza:Niacin:0.04:milligrams
+Salami and Honey Pizza:B-2:0.06:milligrams
+Salami and Honey Pizza:Vitamin A:141.0:IU
+Salami and Honey Pizza:Iron:2.1:milligrams
+Salami and Honey Pizza:Calcium:199.8:milligrams
+Salami and Honey Pizza:Sodium:2193:milligrams
+Chef`s Choice Pizza:Calories:515:cal
+Chef`s Choice Pizza:Protein:24.6:grams
+Chef`s Choice Pizza:Fat:26.6:grams
+Chef`s Choice Pizza:Poly Unsaturated Fat:0.1:grams
+Chef`s Choice Pizza:Saturated Fat:7.9:grams
+Chef`s Choice Pizza:Cholesterol:31:milligrams
+Chef`s Choice Pizza:Carbohydrates:50.3:grams
+Chef`s Choice Pizza:Sugar:1.8:grams
+Chef`s Choice Pizza:Dietary Fiber:15.6:grams
+Chef`s Choice Pizza:Vitamin C:10.4:milligrams
+Chef`s Choice Pizza:B-1:0.10:milligrams
+Chef`s Choice Pizza:Niacin:0.37:milligrams
+Chef`s Choice Pizza:B-2:0.10:milligrams
+Chef`s Choice Pizza:Vitamin A:1162.3:IU
+Chef`s Choice Pizza:Iron:1.5:milligrams
+Chef`s Choice Pizza:Calcium:358.4:milligrams
+Chef`s Choice Pizza:Sodium:713:milligrams
+Margherita Pizza:Calories:515:cal
+Margherita Pizza:Protein:24.6:grams
+Margherita Pizza:Fat:26.6:grams
+Margherita Pizza:Poly Unsaturated Fat:0.1:grams
+Margherita Pizza:Saturated Fat:7.9:grams
+Margherita Pizza:Cholesterol:31:milligrams
+Margherita Pizza:Carbohydrates:50.3:grams
+Margherita Pizza:Sugar:1.8:grams
+Margherita Pizza:Dietary Fiber:15.6:grams
+Margherita Pizza:Vitamin C:10.4:milligrams
+Margherita Pizza:B-1:0.10:milligrams
+Margherita Pizza:Niacin:0.37:milligrams
+Margherita Pizza:B-2:0.10:milligrams
+Margherita Pizza:Vitamin A:1162.3:IU
+Margherita Pizza:Iron:1.5:milligrams
+Margherita Pizza:Calcium:358.4:milligrams
+Margherita Pizza:Sodium:713:milligrams
+Bipimbap Bar:Calories:131:cal
+Bipimbap Bar:Protein:1.8:grams
+Bipimbap Bar:Fat:6.5:grams
+Bipimbap Bar:Poly Unsaturated Fat:0.0:grams
+Bipimbap Bar:Saturated Fat:0.7:grams
+Bipimbap Bar:Cholesterol:74:milligrams
+Bipimbap Bar:Carbohydrates:16.3:grams
+Bipimbap Bar:Sugar:10.2:grams
+Bipimbap Bar:Dietary Fiber:1.9:grams
+Bipimbap Bar:Vitamin C:13.0:milligrams
+Bipimbap Bar:B-1:0.05:milligrams
+Bipimbap Bar:Niacin:0.23:milligrams
+Bipimbap Bar:B-2:0.05:milligrams
+Bipimbap Bar:Vitamin A:3077.0:IU
+Bipimbap Bar:Iron:0.3:milligrams
+Bipimbap Bar:Calcium:31.9:milligrams
+Bipimbap Bar:Sodium:678:milligrams
+Beef Bulgogi:Calories:177:cal
+Beef Bulgogi:Protein:2.0:grams
+Beef Bulgogi:Fat:0.8:grams
+Beef Bulgogi:Poly Unsaturated Fat:0.0:grams
+Beef Bulgogi:Saturated Fat:0.4:grams
+Beef Bulgogi:Cholesterol:0:milligrams
+Beef Bulgogi:Carbohydrates:35.7:grams
+Beef Bulgogi:Sugar:27.1:grams
+Beef Bulgogi:Dietary Fiber:0.4:grams
+Beef Bulgogi:Vitamin C:5.5:milligrams
+Beef Bulgogi:B-1:0.20:milligrams
+Beef Bulgogi:Niacin:0.13:milligrams
+Beef Bulgogi:B-2:0.20:milligrams
+Beef Bulgogi:Vitamin A:46.7:IU
+Beef Bulgogi:Iron:0.3:milligrams
+Beef Bulgogi:Calcium:30.0:milligrams
+Beef Bulgogi:Sodium:1223:milligrams
+Jasmine Rice:Calories:99:cal
+Jasmine Rice:Protein:1.9:grams
+Jasmine Rice:Fat:0.3:grams
+Jasmine Rice:Poly Unsaturated Fat:0.0:grams
+Jasmine Rice:Saturated Fat:0.0:grams
+Jasmine Rice:Cholesterol:0:milligrams
+Jasmine Rice:Carbohydrates:22.5:grams
+Jasmine Rice:Sugar:0.0:grams
+Jasmine Rice:Dietary Fiber:0.1:grams
+Jasmine Rice:Vitamin C:0.0:milligrams
+Jasmine Rice:B-1:0.00:milligrams
+Jasmine Rice:Niacin:0.00:milligrams
+Jasmine Rice:B-2:0.00:milligrams
+Jasmine Rice:Vitamin A:0.0:IU
+Jasmine Rice:Iron:0.2:milligrams
+Jasmine Rice:Calcium:1.7:milligrams
+Jasmine Rice:Sodium:2:milligrams
